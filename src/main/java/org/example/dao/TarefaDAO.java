@@ -13,7 +13,7 @@ public class TarefaDAO {
     /*
         primeiro vamos guarda a URL, usuário e senha em variáveis para fazermos o login no Banco de Dados
      */
-    private static final String URL = "jdbc:mysql://luismjava.duckdns.org.duckdns.org:3306/todo_list";
+    private static final String URL = "jdbc:mysql:*******************";
     private static final String USER = System.getenv("DB_USER"); // Ex: root
     private static final String PASSWORD = System.getenv("DB_PASSWORD");
 
