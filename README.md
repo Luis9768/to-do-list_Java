@@ -35,10 +35,7 @@ Este projeto utiliza boas práticas de segurança e não mantém credenciais no 
 
 ## 📦 Como Rodar
 
-1.  Clone o repositório:
-    ```bash
-    git clone [https://github.com/Luis9768/nome-do-teu-repo.git](https://github.com/Luis9768/nome-do-teu-repo.git)
-    ```
+1.  Clone o repositório.
 2.  Abra o projeto na sua IDE de preferência (IntelliJ, Eclipse, VS Code).
 3.  Configure as variáveis de ambiente citadas acima.
 4.  Execute a classe `Main.java`.
